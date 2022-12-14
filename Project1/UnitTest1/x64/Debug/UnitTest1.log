@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\38068\source\repos\Project1\Project1\source.cpp(33,7): warning C4101: 'kurs': unreferenced local variable
+C:\Users\38068\source\repos\Project1\UnitTest1\UnitTest1.cpp(19,8): warning C4101: 'menuItem': unreferenced local variable
+C:\Users\38068\source\repos\Project1\UnitTest1\UnitTest1.cpp(18,17): warning C4101: 'count': unreferenced local variable
+C:\Users\38068\source\repos\Project1\UnitTest1\UnitTest1.cpp(18,11): warning C4101: 'proc': unreferenced local variable
+C:\Users\38068\source\repos\Project1\UnitTest1\UnitTest1.cpp(17,9): warning C4101: 'kurs': unreferenced local variable
+     Creating library C:\Users\38068\source\repos\Project1\x64\Debug\UnitTest1.lib and object C:\Users\38068\source\repos\Project1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\38068\source\repos\Project1\x64\Debug\UnitTest1.dll
