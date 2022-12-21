@@ -1,0 +1,4 @@
+﻿  UnitTest3.cpp
+C:\Users\38068\source\repos\Project3\Project3\Project3.cpp(106,19): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+     Creating library C:\Users\38068\source\repos\Project3\x64\Debug\UnitTest3.lib and object C:\Users\38068\source\repos\Project3\x64\Debug\UnitTest3.exp
+  UnitTest3.vcxproj -> C:\Users\38068\source\repos\Project3\x64\Debug\UnitTest3.dll
